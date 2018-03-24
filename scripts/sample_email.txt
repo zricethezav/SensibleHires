@@ -1,0 +1,13 @@
+Dear {employer},
+
+My name is {name} and I am a software engineer working in Urbana, IL.
+
+I am reaching out to you on behalf of an open source project I am creating, SensibleHires. SensibleHires is a community curated list of socially conscious employers who understand the past should not prevent the future. SensibleHires believes that felons and the formerly incarcerated should not be further punished by restrictive background checks.
+
+SensibleHires is asking permission to add {employer} to our list of socially conscious employers on our github page: github.com/zricethezav/SensibleHires. By accepting you agree that you approach background checks with discretion and are open to hiring felons and/or the formerly incarcerated.
+
+SensibleHires is in the early stages of development and is working on creating a list for the Champaign community.
+
+Best,
+
+{name}

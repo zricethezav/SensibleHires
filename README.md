@@ -8,6 +8,6 @@ SensibleHires is a community curated list of socially conscious employers who un
 ## Contribute
 SensibleHires is an open source project and encourages contributions!
 
-If you want to add to the socially conscious employer data set please follow the Contributing Guide to get 
-started or send an email to sensiblehires@gmail.com.
+If you want to add to the socially conscious employer data set please follow the [Contributing Guide](https://github.com/zricethezav/SensibleHires/blob/master/CONTRIBUTING.md) to get 
+started or send an email to zricezrice at gmail dot com.
 

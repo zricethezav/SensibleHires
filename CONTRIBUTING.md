@@ -12,6 +12,10 @@ Hiring (Yes/No)
 Comments
 ```
 Below is a screen shot of a sample addition.
+<p align="center">
+  <img alt="gitleaks" src="https://raw.githubusercontent.com/zricethezav/SensibleHires/master/media/add.png" height="320" /> 
+</p>
+
 
 Or if you do not have a github account and would like to add your organization to the data set, please email me at
 `zricezrice at gmail dot com`
@@ -27,6 +31,10 @@ County
 Zip
 ```
 Below is a screen shot of a sample removal.
+<p align="center">
+  <img alt="gitleaks" src="https://raw.githubusercontent.com/zricethezav/SensibleHires/master/media/remove.png" height="320" /> 
+</p>
+
 
 Or if you do not have a github account and would like to remove your organization from the data set, please email me at
 `zricezrice at gmail dot com`
